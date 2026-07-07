@@ -1,2 +1,2 @@
 # Leet_Code
-Collection of LeetCode solutions with optimized approaches, organized by difficulty and language.
+Collection of LeetCode solutions with explanations and optimized approaches.
